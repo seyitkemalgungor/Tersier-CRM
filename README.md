@@ -97,5 +97,5 @@ Bu proje [MIT License](LICENSE) altında lisanslanmıştır. Açık kaynak olara
 ---
 
 <p align="center">
-  <sub>Developed with ❤️ by Tersierss Technology</sub>
+  <sub>Developed with ❤️ by Tersier Technology</sub>
 </p>
