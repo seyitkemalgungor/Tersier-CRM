@@ -70,7 +70,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Repoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/seyitkemalgungor/Tersier-CRM.git](https://github.com/seyitkemalgungor/Tersier-CRM.git)
+    git clone https://github.com/seyitkemalgungor/Tersier-CRM.git
     ```
 2.  **Veritabanını İçe Aktarın:**
     * `phpMyAdmin` veya tercih ettiğiniz bir SQL istemcisini açın.
