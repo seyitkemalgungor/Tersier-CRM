@@ -70,7 +70,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1.  **Repoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/kullaniciadi/tersier-erp.git](https://github.com/kullaniciadi/tersier-erp.git)
+    git clone [https://github.com/seyitkemalgungor/Tersier-CRM.git](https://github.com/seyitkemalgungor/Tersier-CRM.git)
     ```
 2.  **Veritabanını İçe Aktarın:**
     * `phpMyAdmin` veya tercih ettiğiniz bir SQL istemcisini açın.
@@ -85,7 +85,7 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
     private $password = "";
     ```
 4.  **Çalıştırın:**
-    * Tarayıcınızda `http://localhost/tersier-erp` adresine gidin.
+    * Tarayıcınızda `http://localhost/tersier-crm` (veya kurduğunuz klasör adı) adresine gidin.
     * **Varsayılan Giriş:** (Kayıt ol sayfasından yeni kullanıcı oluşturabilirsiniz).
 
 ---
